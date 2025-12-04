@@ -17,9 +17,10 @@
 
 ## 📖 **Hakkında**
 
-Bu repo, **[Üniversite/Topluluk Adı]** bünyesinde hazırlanan ve Yönetim Bilişim Sistemleri (YBS/MIS) yaklaşımıyla kaleme alınan **“SİLİKON ZEKALARIN SAVAŞI”** adlı derinlemesine araştırma raporunun dijital arşividir.
+Bu repo, **Gazi Üniversitesi/Cyber Gate Siber Güvenlik Araştırma ve Geliştirme Topluluğu** bünyesinde hazırlanan ve Siber Güvenlik Kariyer Yol Haritası yaklaşımıyla kaleme alınan **“Kariyer & Gelecek
+ Özel Sayısı”** adlı derinlemesine araştırma raporunun dijital arşividir.
 
-Toplam **30 sayfalık** bu özel dosya; yapay zekânın siber güvenliğin kurallarını nasıl yeniden yazdığını, saldırı ve savunma algoritmalarının evrimini, kurumların yönetim modellerini sarsan etik ve hukuki riskleri ayrıntılı biçimde inceler.  
+Toplam **8 sayfalık** bu özel dosya; yapay zekânın siber güvenliğin kurallarını nasıl yeniden yazdığını, saldırı ve savunma algoritmalarının evrimini, kurumların yönetim modellerini sarsan etik ve hukuki riskleri ayrıntılı biçimde inceler.  
 
 Bu çalışma, geleceğin güvenlik yöneticilerine stratejik bir perspektif sunmayı hedefler.
 
@@ -78,11 +79,46 @@ Bu çalışma, **Creative Commons Atıf-GayriTicari-Türetilemez 4.0** (CC BY-NC
 | ❌ Değiştiremezsiniz | İçerik üzerinde değişiklik, remiks yapılamaz. |
 
 Lisansın tam metni için:  
-📄 `LICENSE` dosyasına bakınız.
+📄 `https://creativecommons.org/licenses/by-nc-nd/4.0/` dosyasına bakınız.
 
 ---
 
 ## 📝 **Atıf (Citation)**
 
 Bu çalışmayı akademik, kurumsal veya teknik bir yazıda kaynak göstermek için aşağıdaki APA formatını kullanabilirsiniz:
+
+Gazi Üniversitesi . GitHub: [Kariyer & Gelecek Özel Sayısı](https://github.com/GaziCyberGate/Kariyer-Gelecek-zel-Say-s-.git)
+
+
+ 
+---
+
+## 🌐 **Hedef Kitlesi**
+
+- Siber güvenlik uzmanları  
+- YBS / MIS öğrencileri  
+- Yapay zekâ araştırmacıları  
+- İleri seviye teknoloji yönetimi profesyonelleri  
+- Siber savunma birimleri ve CERT/CSIRT ekipleri  
+
+---
+
+## ⭐ **Destek ve Katkı**
+
+Bu depo yaşayan bir çalışmadır.  
+Geri bildirim, fikir ve katkılar için issue/pull request açabilirsiniz.
+
+Projeyi faydalı bulursanız ⭐ vermeniz geliştirilmesine katkıda bulunur.
+
+---
+
+<div align="center"><br>
+
+🛡️ **Kariyer & Gelecek Özel Sayısı**  
+*Geleceğin Siber Savunma Mimarisi — 2025*
+
+</div>
+
+
+
 
