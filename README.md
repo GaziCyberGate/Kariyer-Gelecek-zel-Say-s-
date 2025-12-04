@@ -46,13 +46,87 @@ Bu proje; siber güvenlik meraklıları, sistem yöneticileri ve ağ analiz sür
 
 ---
 
+## ▶️ Kullanım Rehberi
+
+🔸 Temel Tarama
+
+Belirli bir hedef IP adresini hızlıca tarar:
+
+```bash
+python shadowscan.py -t 192.168.1.10 
+ ```
+
+🔸 Port Aralığı Belirleme
+
+Kapalı/açık kontrolü için özel port aralığı:
+
+```bash
+python shadowscan.py -t 192.168.1.10 -p 1-1000
+ ```
+🔸 IP Aralığı Taraması
+
+Geniş ağ bloklarının keşfi için:
+
+```bash
+python shadowscan.py -r 192.168.1.1-192.168.1.255
+ ```
+
+🔸 IP Aralığı Taraması
+
+Geniş ağ bloklarının keşfi için:
+
+```bash
+python shadowscan.py -r 192.168.1.1-192.168.1.255
+ ```
+
+🔸 Rapor Çıktısı Alma
+
+Sonuçları .csv formatında saklama:
+
+```bash
+python shadowscan.py -t 192.168.1.10 --export results.csv
+ ```
+
 ## 📦 Kurulum
 
 ShadowScan, Python 3.10+ ile uyumlu olacak şekilde geliştirilmiştir.
 
+
 ### 1️⃣ Depoyu Klonlayın
+
 ```bash
 git clone https://github.com/kullaniciadi/ShadowScan.git
-cd ShadowScan bash```
+cd ShadowScan bash
+ ```
 
 ### 2️⃣ Gerekli Bağımlılıkları Yükleyin
+
+```bash
+pip install -r requirements.txt
+
+ ```
+
+## 📂 Proje Yapısı
+
+```bash
+ShadowScan/
+│
+├── shadowscan.py       
+├── utils/               
+│   ├── scanner.py
+│   ├── reporter.py
+│   └── banners.py
+│
+├── reports/             
+│
+├── README.md            
+├── requirements.txt     
+└── LICENSE              
+
+ ```
+
+
+
+
+
+
