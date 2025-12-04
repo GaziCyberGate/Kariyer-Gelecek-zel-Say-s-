@@ -53,5 +53,6 @@ ShadowScan, Python 3.10+ ile uyumlu olacak şekilde geliştirilmiştir.
 ### 1️⃣ Depoyu Klonlayın
 ```bash
 git clone https://github.com/kullaniciadi/ShadowScan.git
-cd ShadowScan ```
+cd ShadowScan bash```
 
+### 2️⃣ Gerekli Bağımlılıkları Yükleyin
